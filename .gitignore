@@ -4,5 +4,5 @@
 .settings/
 
 # Ignore dependency directories
-/bin/
+bin/
 /lib/
