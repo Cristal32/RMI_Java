@@ -4,5 +4,6 @@
 .settings/
 
 # Ignore dependency directories
-bin/
+tp5_RMI_client/bin/
+tp5_RMI_server/bin/
 /lib/
